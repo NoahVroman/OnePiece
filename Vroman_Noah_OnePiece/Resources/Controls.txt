@@ -1,0 +1,18 @@
+---------- Controls ----------
+ARROW LEFT/RIGHT: Move left/right 
+SPACEBAR: Jump / Press Start
+-------------------------------------------------------------------------
+ATTACKS:
+S: Punch 
+D: Grab sideways
+ARROW UP + D: Grab up
+ARROW UP + ARROW RIGHT/LEFT + D: Grab diagonal 
+2 * Press S: Double Punch
+3 * Press S: Triple Punch 
+S in air: Air attack
+-------------------------------------------------------------------------
+SOUND:
+O: Increase Volume
+L: Decrease Volume
+M or , : Mute/Unmute
+-------------------------------------------------------------------------

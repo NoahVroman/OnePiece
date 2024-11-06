@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="5056mm"
+   height="1188mm"
+   viewBox="0 0 5056 1188"
+   version="1.1"
+   id="svg5"
+   sodipodi:docname="Map3.svg"
+   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#999999"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.11313708"
+     inkscape:cx="4963.0057"
+     inkscape:cy="3566.4698"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     showguides="false"
+     width="5350.9321mm" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <image
+       width="5056"
+       height="1188"
+       preserveAspectRatio="none"
+       xlink:href="Map3.png"
+       id="image17"
+       x="0.0049183303"
+       y="-0.004428409" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 0.00491833,1187.9956 V 981.84133 H 955.90615 L 1082.9152,1055.17 h 898.4707 l 122.777,-58.92285 h 836.9295 l 123.703,-71.42001 h 193.4708 l 128.2697,74.05669 h 355.4579 v 116.50027 h 449.9983 V 665.59244 h 863.7868 l 0.226,522.40316 H 0.00491833"
+       id="path326" />
+  </g>
+</svg>
